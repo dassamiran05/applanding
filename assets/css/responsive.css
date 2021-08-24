@@ -1,0 +1,636 @@
+@media(max-width:1140px){
+    #header .logo{
+        padding: 50px 0 !important;
+    }
+
+    .menu-bar ul li {
+        margin-left: 25px !important;
+    }
+    
+    .menu-bar ul li a {
+        padding: 50px 0 !important;
+    }
+    .header-btn {
+        margin-top: 38px !important;
+        margin-left: 70px !important;
+    }
+
+    .banner-content{
+        padding: 80px 28px !important;
+    }
+
+    .mobile img{
+        width: 340px !important;
+        height: 565px !important;
+        top: -7% !important;
+        right: 18% !important;
+    }
+
+    .banner-content a.try{
+        padding: 15px 30px !important;
+        margin-right: 20px !important;
+    }
+
+    /* Brands Section */
+    #brands{
+        padding:90px 0 !important;
+    }
+    
+    #brands h5{
+        margin-bottom: 35px !important;
+    }
+    
+    .brands-cont img{
+        margin-right: 40px !important;
+    }
+
+    .ulti-image img{
+        width: 111% !important;
+        top: 18% !important;
+        right: -6% !important;
+    }
+
+    #price{
+        padding: 80px 0 !important;
+    }
+
+    
+    #price .card .card-header .head-text{
+        margin-top: 35px !important;
+        margin-bottom: 20px !important;
+    }
+    #price .card .card-header .head-text span{
+        font-size: 40px !important;
+    }
+    
+    #price .card .card-header p.head-text{
+        font-size: 18px !important;
+    }
+    
+    #price .card .card-header .font-size-16{
+        margin-top: 12px !important;
+        margin-bottom: 28px !important;
+    }
+    
+    #price .card .card-body p{
+        line-height: 37px !important;
+        padding: 30px !important;
+    }
+    
+    #price .card .card-body .btn{
+        padding:10px 25px !important;
+        margin-top: 20px !important;
+        margin-bottom: 25px !important;
+    }
+    
+    #price .card .card-body .link-btn{
+        margin-top: -38px !important;
+    }
+
+
+
+    #client-satisfaction{
+        padding: 100px 0 !important;
+    }
+
+    #client-satisfaction .img-sec img{
+        width: 137% !important;
+        position: absolute;
+        left: -92px !important;
+        top: 90px !important;
+    }
+
+    .client-content{
+        padding-right: 50px !important;
+    }
+
+    .client-content h1{
+        font-size: 36px !important;
+        line-height: 38px !important;
+    }
+    .client-content p{
+        margin-top: 25px !important;
+        margin-bottom: 30px !important;
+    }
+    
+    .client-content h3{
+        margin-top: 15px !important;
+        margin-bottom: 22px !important;
+    }
+
+    .client-content .testimonial .testi-content p{
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+
+
+    .download-content{
+        padding: 60px 0 !important;
+    }
+    .download-content h1{
+        font-size: 38px !important;
+    }
+    
+    .download-content p{
+        margin: 30px 0 !important;
+    }
+    
+    .download-image img{
+        width: 122% !important;
+        bottom: -39px !important;
+        right: -62px !important;
+    }
+
+    #footer .menu-bar ul li {
+        margin-left: 22px !important;
+    }
+}
+
+@media(max-width:991px){
+    #header .logo{
+        padding: 40px 0 !important;
+    }
+
+    #header .col-md-9{
+        padding: 0 !important;
+    }
+
+    .menu-bar ul li:first-child {
+        margin-left: 0 !important;
+    }
+
+    .menu-bar ul li {
+        margin-left: 18px !important;
+    }
+    .header-btn .btn {
+        font-size: 14px !important;
+        padding: 8px 22px !important;
+    }
+    
+    .menu-bar ul li a {
+        padding: 40px 0 !important;
+        font-size: 14px !important;
+    }
+    .header-btn {
+        margin-top:28px !important;
+        margin-left: 35px !important;
+    }
+    
+    .banner-content{
+        padding: 35px 10px !important;
+    }
+    .banner-content h1{
+        font-size: 34px !important;
+        margin-top: 16px !important;
+        margin-bottom: 20px !important;
+    }
+
+    .editor-div p {
+        top: 7px !important;
+        left: 18% !important;
+        font-size: 15px !important;
+    }
+
+    .banner-content .te {
+        font-size: 16px !important;
+        margin-bottom: 30px !important;
+    }
+
+    .mobile img{
+        width: 287px !important;
+        height: 470px !important;
+        top: -11% !important;
+        right: 18% !important;
+    }
+
+    .banner-content a.try{
+        padding: 13px 23px !important;
+        margin-right: 17px !important;
+    }
+
+    #brands{
+        padding:70px 0 !important;
+    }
+    
+    #brands h5{
+        margin-bottom: 30px !important;
+    }
+    
+    .brands-cont img{
+        margin-right: 23px !important;
+        width: 15% !important;
+    }
+
+    /*App Features*/
+
+    #app-features{
+        padding: 25px 0 !important;
+    }
+    
+    #app-features #image-div img{
+        max-width: 97% !important;
+    }
+    
+    
+    .app-features-content h1{
+        font-size: 30px !important;
+    }
+    
+    
+    .app-features-content #main-text{
+        font-size: 14px !important;
+        margin-top: 18px !important;
+        margin-bottom: 28px !important;
+    }
+    
+    .app-features-content .col-md-12{
+        margin-bottom: 20px !important;
+    }
+    
+    .app-features-content .col-md-12 img{
+        margin-right: 23px !important;
+        width: 80px !important;
+        height: 80px !important;
+    }
+    
+    .text p{
+        font-size: 15px !important;
+    }
+    
+    .fast h2, .prototyping h2, .vector h2{
+        font-size: 18px !important;
+    }
+
+    /*Smart Jackpots*/
+    #smart-jackpots{
+        padding: 30px 0 !important;
+    }
+    
+    
+    #smart-jackpots .col-md-6{
+        padding: 20px 40px !important;
+    }
+    
+    #smart-jackpots h1{
+        font-size: 28px !important;
+    }
+
+    /*Facility*/
+    #facility{
+        padding:30px 44px !important;
+    }
+    
+    #facility .row{
+        margin: 0 25px !important;
+    }
+    .facility-content {
+        padding: 0px 37px !important;
+        padding-left: 0 !important;
+    }
+
+    #facility h2{
+        font-size: 19px !important;
+        margin-top: 30px !important;
+        margin-bottom: 22px !important;
+    }
+    
+    #facility p{
+        font-size: 16px;
+        color: #616368;
+    }
+
+    /*Design*/
+    #design{
+        padding: 45px 0 !important;
+    }
+    
+    #design img{
+        width: 98% !important;
+    }
+    
+    .design-content{
+        padding: 20px 40px 20px 0 !important;
+    }
+    
+    .design-content h2{
+        font-size: 34px !important;
+    }
+    .design-content p{
+        margin: 25px 0 !important;
+    }
+
+    /*Choose Our App*/
+    #choose-our-app{
+        padding: 35px 0 !important;
+    }
+    
+    #choose-our-app .col-md-4{
+        padding: 13px !important;
+    }
+    
+    
+    #choose-our-app .cont{
+        padding: 15px !important;
+    }
+
+    #choose-our-app .cont h2{
+        font-size: 18px !important;
+        margin-top: 20px !important;
+        margin-bottom: 17px !important;
+    }
+    
+    #choose-our-app .cont p{
+        font-size: 15px !important;
+    }
+    
+    .header-sec{
+        width: 48% !important;
+    }
+    
+    .header-sec h1{
+        font-size: 30px !important;
+        font-weight: 700 !important;
+    }
+    
+    .header-sec p{
+        margin-top: 32px !important;
+        margin-bottom: 50px !important;
+    }
+
+    /*Ultimate*/
+    
+    #ultimate .ultimate-head-section{
+        padding: 0 30% 0 0 !important;
+    }
+
+    
+    #ultimate .ultimate-head-section h1{
+        font-size: 30px !important;
+        font-weight:700 !important;
+    }
+    
+    #ultimate .ultimate-head-section p{
+        margin-top: 20px !important;
+        margin-bottom: 35px !important;
+    }
+    
+    .ulti-content h2{
+        font-size: 18px !important;
+        margin-top: 20px !important;
+        margin-bottom: 16px !important;
+    }
+    
+    .ulti-content p{
+        margin-bottom: 35px !important;
+    }
+    
+    
+    
+    .ulti-image img{
+        width: 120% !important;
+        position: absolute;
+        top: 25% !important;
+        right: -10% !important;
+    }
+
+
+    /*Pricing*/
+    #price{
+        padding: 40px 0 !important;
+    }
+    
+    .price-header{
+        width: 57% !important;
+    }
+    
+    .price-header h1{
+        font-size: 30px !important;
+        font-weight: 700 !important;
+    }
+    
+    .price-header p{
+        margin-top: 25px !important;
+        margin-bottom: 50px !important;
+    }
+    
+    /* #price .card .card-header{
+        padding: 0;
+    } */
+    #price .card .card-header .head-text{
+        margin-top: 35px !important;
+        margin-bottom: 15px !important;
+    }
+    #price .card .card-header .head-text span{
+        font-size: 40px !important;
+    }
+    
+    #price .card .card-header p.head-text{
+        font-size: 18px !important;
+    }
+
+    /* #price .card .card-header{
+        padding: 0 20px !important;
+    } */
+    
+    #price .card .card-header h4{
+        font-size: 18px !important;
+    }
+    
+    #price .card .card-header .font-size-16{
+        margin-top: 16px !important;
+        margin-bottom: 25px !important;
+    }
+    /* #price .card .card-body{
+        padding: 0;
+    } */
+    
+    #price .card .card-body p{
+        line-height: 35px !important;
+        padding: 12px !important;
+    }
+    
+    #price .card .card-body .btn{
+        padding: 9px 10px !important;
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+        font-size: 14px !important;
+    }
+    
+    /* #price .card .card-body .link-btn{
+        font-size: 14px !important;
+    } */
+
+
+    /*Client Satisfaction*/
+    #client-satisfaction{
+        padding: 60px 0 !important;
+    }
+    
+    #client-satisfaction .img-sec img{
+        width: 145% !important;
+        left: -103px !important;
+        top: 27% !important;
+    }
+    .client-content{
+        padding-right: 25px !important;
+    }
+    .client-content h1{
+        font-size: 31px !important; 
+        line-height: 47px !important;
+    }
+    .client-content p{
+        margin-top: 20px !important;
+        margin-bottom: 25px !important;
+    }
+    
+    .client-content h3{
+        font-size: 18px !important;
+        margin-top: 15px !important;
+        margin-bottom: 20px !important;
+    }
+    .client-content .testimonial img{
+        width: 90px;
+        height: 90px;
+        margin-right: 25px !important;
+    }
+
+    /*FAQ*/
+    #faq{
+        padding: 35px 0 !important;
+    }
+    #faq .card{
+        margin-bottom: 10px !important;
+    }
+    
+    .faq-header{
+        width: 90% !important;
+    }
+    
+    .faq-header h1{
+        font-size: 30px !important;
+        font-weight: 700 !important;
+    }
+    
+    
+    .faq-header p{
+        margin-top: 23px !important;
+        margin-bottom: 45px !important;
+    }
+    
+    #faq .card .card-header .btn-link{
+        width: 100% !important;
+        height: 45px !important;
+        font-size: 16px !important;
+    }
+
+    /*Download*/
+
+    
+    .download-content{
+        padding: 45px 0 !important;
+    }
+    .download-content h1{
+        font-size: 28px !important;
+        font-weight: 700 !important;
+    }
+    
+    .download-content p{
+        margin:25px 0 !important;
+    }
+    
+    #download .download-btn-grp img{
+        margin-right: 15px !important;
+        width: 35% !important;
+    }
+    
+    .download-image img{
+        width: 140% !important;
+        bottom: -35px !important;
+    }
+
+
+    /*Footer*/
+    #footer{
+        padding: 50px 0 !important;
+    }
+    
+    
+    #footer .footer-content p{
+        margin-top: 40px !important;
+    }
+    #footer .menu-bar ul li:first-child {
+        margin-left: 0 !important;
+    }
+
+    #footer .menu-bar ul li {
+        margin-left: 18px !important;
+    }
+    
+    #footer .menu-bar ul li a {
+        padding: 40px 0 !important;
+        font-size: 15px !important;
+    }
+    
+    
+}
+
+@media(max-width:767px){
+    #header .menu-bar, .mobile img, #ultimate .ulti-image img, #client-satisfaction .img-sec, #download .download-image{
+        display: none;
+    }
+    #header{
+        height: 100vh !important;
+    }
+    #header .logo{
+        padding: 35px 0 !important;
+    }
+
+    .header-btn {
+        /* margin-top: 20px !important; */
+        margin-right: 15px !important;
+    }
+
+    #header .col-md-9{
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .banner-content{
+        text-align: center !important;
+        width: 100% !important;
+        margin: 0 auto !important;
+        padding: 90px 10px !important;
+    }
+    .banner-content h1{
+        font-size: 42px !important;
+        font-weight: 700 !important;
+    }
+
+    
+    .banner-content a.try {
+        padding: 10px 28px !important;
+    }
+
+    .banner-content .te {
+        margin-bottom: 50px !important;
+        margin-top: 34px !important;
+        font-size: 18px !important;
+    }
+
+    .editor-div{
+        display: none !important;
+    }
+
+    #header  .content .mobile{
+        display: none !important;
+    }
+}
+
+
+@media(max-width:556px){
+    /* .header-btn{
+        margin-top: -66px !important;
+        margin-left: 0 !important;
+        margin-right: 17px;
+    } */
+}
